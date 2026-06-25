@@ -1,10 +1,9 @@
+
 streamlit
-pillow
+torch==1.13.1
+torchvision==0.14.1
+opencv-python-headless
 numpy
 pandas
 scikit-learn
-opencv-python-headless
-
---extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.5.1+cpu
-torchvision==0.20.1+cpu
+Pillow
